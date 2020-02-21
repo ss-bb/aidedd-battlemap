@@ -1,12 +1,15 @@
 <template>
     <div>
-      <h1>Bonjour</h1>
+        <span>coucou</span>
     </div>
 </template>
 
 <script>
 
 export default {
-    name: "Home"
-};
+    name: "ChatOverlay"
+}
 </script>
+
+<style>
+</style>
